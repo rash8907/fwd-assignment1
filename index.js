@@ -1,7 +1,7 @@
 console.log("hello");
 
-let button2 = document.getElementById("text");
-button2.addEventListener("click", changeText);
+let button = document.getElementById("text");
+button.addEventListener("click", changeText);
 
 
 function changeText() {
