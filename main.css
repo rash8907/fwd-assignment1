@@ -23,3 +23,8 @@ button{
 #text1{
     text-align: left;
 }
+
+p{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    margin-top: 20px;
+}
